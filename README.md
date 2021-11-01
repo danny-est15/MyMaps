@@ -23,7 +23,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Tippy Gif](https://user-images.githubusercontent.com/70794317/139715748-6a9aae36-707e-4c0a-b443-ab73ee65b795.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

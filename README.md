@@ -16,8 +16,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [✓] When a map marker is created, the pin is animated.
-* [ ] List anything else that you did to improve the app functionality or design!
+* [✓] Changed the pin and overall color scheme of the app.
 
 ## Video Walkthrough
 
